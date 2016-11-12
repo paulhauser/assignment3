@@ -1,0 +1,28 @@
+/*styles for assignment 3*/
+
+body {
+  font-size: 62.5%;
+  color: white;
+  background-color: darkblue;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 2.0rem;
+}
+
+.status-update p {
+  display: block;
+  font-size: 1.0rem;
+  padding: 1rem 2rem;
+}
+
+.status-update {
+  border-style: solid;
+  border-width: thin;
+}
+.action-update p {
+  display: block;
+  font-size: 1.2rem;
+  padding: .5rem .5rem;
+}
